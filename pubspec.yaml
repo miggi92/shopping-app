@@ -26,7 +26,7 @@ dependencies:
   flutter_localizations: 
     sdk: flutter        
   # Add the dependency for the Firebase Core Flutter SDK
-  firebase_core: ^2.24.2
+  firebase_core: ^3.0.0
    # Add the dependency for the FlutterFire plugin 
   firebase_analytics: ^10.8.0
   firebase_crashlytics: ^3.4.9
